@@ -75,12 +75,7 @@ let playgame=()=>{
                       else{
                         console.log("comp win")
                       }
-       
-    
-
-    
-
-
+  
 }
 
 playgame();
